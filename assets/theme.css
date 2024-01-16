@@ -4077,6 +4077,8 @@ loess-slideshow-progress {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  color: #FBCD0A;
+  font-size: 20px;
 }
 
 .stars--color-default {
@@ -4127,7 +4129,7 @@ iframe.video-iframe {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  /* pointer-events: none; */
+  pointer-events: none;
   z-index: 0;
 }
 
@@ -4137,7 +4139,7 @@ iframe.video-iframe-full {
   width: auto;
   top: 50%;
   left: 50%;
-  /* pointer-events: none; */
+  pointer-events: none;
   transform: translate(-50%, -50%);
 }
 
