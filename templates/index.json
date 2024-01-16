@@ -1,0 +1,377 @@
+{
+  "sections": {
+    "hero": {
+      "type": "hero",
+      "blocks": {
+        "slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_7048.jpg",
+            "subheading": "",
+            "title": "INTRODUCING M350 RTK PRO KIT",
+            "text": "",
+            "text_size": "medium",
+            "text_position_large": "end center",
+            "text_position_mobile": "center",
+            "first_button_label": "Just Arrived!!!",
+            "first_button_link": "shopify:\/\/products\/flyingag-m350-rtk-pro-kit",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_arrow_style": true,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        },
+        "slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2023-10-17at5.21.29PM.png",
+            "subheading": "",
+            "title": "NEW MINI 4 PRO AG KIT",
+            "text": "",
+            "text_size": "medium",
+            "text_position_large": "end center",
+            "text_position_mobile": "center",
+            "first_button_label": "NEW Beginner Drone Kit",
+            "first_button_link": "shopify:\/\/products\/flyingag-mini-4-pro-ag-kit",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_arrow_style": true,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        },
+        "2fe5d835-339f-4867-9ea5-1ccd31834589": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DJI_agras_t40_spraypattern.jpg",
+            "subheading": "",
+            "title": "NEW T40 SPRAYER DRONE IS HERE!",
+            "text": "",
+            "text_size": "medium",
+            "text_position_large": "end center",
+            "text_position_mobile": "center",
+            "first_button_label": "Shipping Now",
+            "first_button_link": "shopify:\/\/products\/2023-flyingag-agras-t40-sprayer-drone-kit",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_arrow_style": true,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        },
+        "4ddf3150-5626-4140-9d21-69d5150b91a9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DJI-Mavic-3-Multispectral-in-the-air_jpg.webp",
+            "subheading": "",
+            "title": "MAVIC ENTERPRISE SERIES",
+            "text": "",
+            "text_size": "medium",
+            "text_position_large": "end center",
+            "text_position_mobile": "center",
+            "first_button_label": "Three Versions 3E 3T 3M",
+            "first_button_link": "shopify:\/\/products\/2023-flyingag-mavic-3t-ag-kit",
+            "first_button_arrow_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_arrow_style": true,
+            "color_scheme": "default-with-accent-1",
+            "custom_colors": false,
+            "color_foreground": "#061c2f",
+            "color_accent": "#0d91bd",
+            "color_background": "#ffffff",
+            "color_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2",
+        "2fe5d835-339f-4867-9ea5-1ccd31834589",
+        "4ddf3150-5626-4140-9d21-69d5150b91a9"
+      ],
+      "settings": {
+        "fixed_width": false,
+        "soft_background": false,
+        "height_large": "x-large",
+        "height_mobile": "x-large",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "text_below_image_mobile": true,
+        "image_padding": false,
+        "image_offset": false,
+        "enable_parallax": false,
+        "image_background": true,
+        "overlay": 40,
+        "animation": "swipe",
+        "maintain_text_first_slide": false,
+        "maintain_background_color_first_slide": false,
+        "auto_play": false,
+        "auto_play_delay": 5
+      }
+    },
+    "promotion": {
+      "type": "promotion",
+      "blocks": {
+        "promotion-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/82EF7F8C-2389-46C6-8955-B8E8A8A435B3_1_105_c.jpg",
+            "link": ""
+          }
+        },
+        "promotion-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screen_Shot_2020-12-15_at_9.02.58_PM.png",
+            "link": ""
+          }
+        },
+        "promotion-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_6436.jpg",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "promotion-1",
+        "promotion-2",
+        "promotion-3"
+      ],
+      "settings": {
+        "layout": "full",
+        "soft_background_top": false,
+        "soft_background_bottom": true,
+        "content_overflow": "top-bottom",
+        "large_layout": "text-first",
+        "mobile_layout": "text-first",
+        "text_position_large": "center",
+        "text_position_mobile": "center",
+        "image_ratio": "square",
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "subheading": "",
+        "title": "Farmers with a Vision...",
+        "text": "<p>FlyingAG was launched in 2015 by a group of successful farmers and growers from across the U.S. who work conscientiously to help other farmers decide what to use, who to trust and where to go in this huge space of unmanned aerial system (UAS) technology.<\/p><p>Our philosophy and mission are to provide an array of products to farmers across various price points making aerial imaging a resourceful tool for large and small operations growing a variety of crops.<\/p>",
+        "text_size": "medium",
+        "first_button_label": "Read More",
+        "first_button_link": "shopify:\/\/pages\/about-flying-ag",
+        "first_button_outline_style": true,
+        "second_button_label": "",
+        "second_button_link": "",
+        "second_button_outline_style": true,
+        "color_scheme": "accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "69efaae0-73f9-48ca-b07e-0fd5c3664454": {
+      "type": "featured-collection",
+      "settings": {
+        "layout": "full",
+        "collection": "drone-kit",
+        "limit": 12,
+        "slider_large": true,
+        "slider_mobile": true,
+        "columns_large": "4",
+        "columns_mobile": "1",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": true,
+        "title": "Drone Packages",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "enable_view_all": true,
+        "view_all_large": "bottom",
+        "view_all_mobile": "top",
+        "view_all_link": "shopify:\/\/collections\/drone-kit",
+        "view_all_label": "",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "eeec3fee-5c1f-4f0a-9508-6dafe77f5139": {
+      "type": "video",
+      "blocks": {
+        "template--16520656322717__eeec3fee-5c1f-4f0a-9508-6dafe77f5139-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Story from This Week in AGribusiness",
+            "size": "h2"
+          }
+        },
+        "template--16520656322717__eeec3fee-5c1f-4f0a-9508-6dafe77f5139-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "video_button_link": "https:\/\/www.youtube.com\/watch?v=Ht8B-XEsTPY",
+            "video_button_label": "",
+            "video_button_style": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16520656322717__eeec3fee-5c1f-4f0a-9508-6dafe77f5139-heading-1",
+        "template--16520656322717__eeec3fee-5c1f-4f0a-9508-6dafe77f5139-buttons-1"
+      ],
+      "settings": {
+        "layout": "fixed-soft",
+        "height_large": "16-9",
+        "height_mobile": "medium",
+        "text_position": "center center",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "rich_text": "",
+        "video": "",
+        "image": "shopify:\/\/shop_images\/IMG_7058.heic",
+        "overlay": 30,
+        "color_foreground": "#ffffff",
+        "color_accent": "#ffffff",
+        "color_background": "#061c2f"
+      }
+    },
+    "83f3d96a-f20c-43ca-a48f-95956773aecd": {
+      "type": "testimonials",
+      "blocks": {
+        "template--16520656322717__83f3d96a-f20c-43ca-a48f-95956773aecd-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<p>GOOD GUYS TO TALK WITH. VERY HELPFUL<\/p>",
+            "author_name": "Steve J. Illinois",
+            "date": "",
+            "logo_width": 100
+          }
+        },
+        "template--16520656322717__83f3d96a-f20c-43ca-a48f-95956773aecd-testimonial-2": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<p>I was absolutely amazed by the performance of the NEW Mini 4 Pro Kit, which weighs less than a standard can of soda. However, don't be misled by its size. I put it to the test in winds ranging over 20mph, though I wouldn't necessarily recommend doing so, and it handled the conditions admirably. <\/p><p>At long last, we have a genuinely accessible drone with impressive capabilities, making it an ideal choice for capturing stunning photos and videos.<\/p>",
+            "author_name": "Chad Colby | Colby Ag Tech",
+            "date": "",
+            "logo_width": 100
+          }
+        },
+        "template--16520656322717__83f3d96a-f20c-43ca-a48f-95956773aecd-testimonial-3": {
+          "type": "testimonial",
+          "settings": {
+            "icon": "quote",
+            "title": "",
+            "text": "<p>WE ADDED THE MAVIC 2 PRO TO OUR FLEET OF TRAINING AND SURVEYING\/ MAPPING DRONES. THIS DRONE IS VERY EASY TO SET UP, CONTROL AND ADAPT TO THE NEEDED CONDITIONS. WE LOOK FORWARD TO USING THIS DRONE IN EACH OF OUR TRAINING CLASSES TO DEMONSTRATE SAFE FLYING TECHNIQUES, AND THE USES OF DRONES IN THE CONSTRUCTION INDUSTRY INCLUDING BUT NOT LIMITED TO PHOTGRAMMETRY, SURVEYING AND INSPECTIONS.<\/p><p>ORDERING THE DRONE THROUGH FLYINGAG HELPED ENSURE THAT WE WOULD RECEIVE A QUALITY PRODUCT THAT HAS BEEN TESTED TO MEET QUALITY STANDARDS. THAT ADDED LEVEL OF ASSURANCE EVERYONE LIKES TO HAVE.<\/p>",
+            "author_name": "Robert Seman",
+            "date": "",
+            "logo_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "template--16520656322717__83f3d96a-f20c-43ca-a48f-95956773aecd-testimonial-1",
+        "template--16520656322717__83f3d96a-f20c-43ca-a48f-95956773aecd-testimonial-2",
+        "template--16520656322717__83f3d96a-f20c-43ca-a48f-95956773aecd-testimonial-3"
+      ],
+      "settings": {
+        "layout": "full",
+        "slider_large": true,
+        "slider_mobile": true,
+        "columns_large": "1",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_heading_text": true,
+        "title": "Testimonials",
+        "subheading": "",
+        "center_body_text": true,
+        "soft_background": "none",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "418285af-4ab4-4c06-a884-7bb9e48abadd": {
+      "type": "video",
+      "blocks": {
+        "template--16520656322717__418285af-4ab4-4c06-a884-7bb9e48abadd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "2022 Drone Review has shown on This Week in Agribusiness",
+            "size": "h2"
+          }
+        },
+        "template--16520656322717__418285af-4ab4-4c06-a884-7bb9e48abadd-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "video_button_link": "https:\/\/www.youtube.com\/watch?v=J8TI_SjNQeM",
+            "video_button_label": "",
+            "video_button_style": false,
+            "button_label": "",
+            "button_link": "",
+            "button_style": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16520656322717__418285af-4ab4-4c06-a884-7bb9e48abadd-heading-1",
+        "template--16520656322717__418285af-4ab4-4c06-a884-7bb9e48abadd-buttons-1"
+      ],
+      "settings": {
+        "layout": "fixed-soft",
+        "height_large": "16-9",
+        "height_mobile": "medium",
+        "text_position": "center center",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "rich_text": "",
+        "video": "",
+        "image": "shopify:\/\/shop_images\/C04A4821-DED1-4BCF-BA70-F09C09FBC921.jpg",
+        "overlay": 30,
+        "color_foreground": "#ffffff",
+        "color_accent": "#ffffff",
+        "color_background": "#061c2f"
+      }
+    }
+  },
+  "order": [
+    "hero",
+    "promotion",
+    "69efaae0-73f9-48ca-b07e-0fd5c3664454",
+    "eeec3fee-5c1f-4f0a-9508-6dafe77f5139",
+    "83f3d96a-f20c-43ca-a48f-95956773aecd",
+    "418285af-4ab4-4c06-a884-7bb9e48abadd"
+  ]
+}

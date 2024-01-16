@@ -1,0 +1,536 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "text_columns_8EnXt9": {
+      "type": "text-columns",
+      "blocks": {
+        "text_column_fWewnx": {
+          "type": "text-column",
+          "settings": {
+            "title": "Our custom FlyingAg M350 RTK Pro Kit includes:",
+            "text": "<ul><li>(1) M350 RTK Aircraft<\/li><li>(1) RC Plus Remote Controller<\/li><li>(8) TB64 Intelligent Flight Battery <\/li><li>(2) WB37 Intelligent Flight Batteries (for Controller)<br\/><\/li><li>(1) BS65 Intelligent Battery Station<\/li><li>(1) CSM Radar<\/li><li>(4 pairs) 2110s Propeller <\/li><li>(4) Spare Gimbal Damper<\/li><li>(1) Landing Gear<\/li><li>(1) Screws and Tools<br\/><\/li><li>(1) Cleaning Tools<\/li><li>(1) Rubber Port Cover (Set)<\/li><li>Enterprise Care Basic (1Yr warranty Included)<\/li><li>Custom Drone Carrying Case<\/li><li>Custom Graphics<\/li><li>Manuals<\/li><li><span style=\"text-decoration:underline\"><em><strong>FREE Shipping, Setup and Flight Tested by FlyingAg <\/strong><\/em><\/span><\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_wQFkgK": {
+          "type": "text-column",
+          "settings": {
+            "title": "Here are the prominent attributes of the DJI Matrice 350 RTK:",
+            "text": "<ul><li>Impressive 12.4 miles maximum transmission range<br\/><\/li><li>Extended 55-minute maximum flight time<br\/><\/li><li>Enhanced six-directional Sensing and Positioning system<br\/><\/li><li>Equipped with the DJI RC Plus remote controller<br\/><\/li><li>Capable of enduring 400 battery cycles<br\/><\/li><li>Boasts IP55-rated water and dust protection<br\/><\/li><li>Operates reliably in temperatures ranging from -4°F to 122°F<br\/><\/li><li>Features an upgraded OcuSync 3 Enterprise Transmission system<br\/><\/li><li>Utilizes a new dual battery system with hot-swapping capability<br\/><\/li><li>Comes in a more compact and easily transportable case<br\/><\/li><li>Incorporates a night-vision FPV (First Person View) camera<br\/><\/li><li>Offers full backward compatibility with DJI Enterprise payloads.<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_column_fWewnx",
+        "text_column_wQFkgK"
+      ],
+      "settings": {
+        "layout": "fixed",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_heading_text": false,
+        "title": "",
+        "subheading": "",
+        "rich_text": "<p>Our FlyingAg M350 RTK Pro Kit establishes a fresh standard for the industry. This cutting-edge drone platform introduces a brand-new video transmission system and control interface, an enhanced battery system for increased efficiency, and a broader array of safety features. Additionally, it boasts robust payload capacity and expandable capabilities. It stands fully equipped to infuse innovation and strength into any aerial mission.<\/p>",
+        "center_body_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_CipVDM": {
+      "type": "video",
+      "settings": {
+        "layout": "fixed",
+        "height_large": "16-9",
+        "height_mobile": "medium",
+        "text_position": "center center",
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "rich_text": "",
+        "video": "https:\/\/www.youtube.com\/watch?v=TssxCDf-e90",
+        "image": "shopify:\/\/shop_images\/IMG_7048.jpg",
+        "overlay": 30,
+        "color_foreground": "#ffffff",
+        "color_accent": "#ffffff",
+        "color_background": "#061c2f"
+      }
+    },
+    "collapsible_content_JAEhCr": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_7fpfqc": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_1 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_KcjPRD": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_2 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_2.value }}"
+          }
+        },
+        "row_iznxCN": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_ATRwcb": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_4 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_8UK34w": {
+          "type": "row",
+          "settings": {
+            "title": "DJI Pilot 2",
+            "text": "<p>The DJI Pilot 2 application has undergone enhanced optimization, presenting mission types and flight statuses with greater clarity. This streamlined control over both the drone and payloads promotes increased operational efficiency.<\/p>",
+            "page": ""
+          }
+        },
+        "row_W6b3rp": {
+          "type": "row",
+          "settings": {
+            "title": "New Dual-Battery System",
+            "text": "<p>The Matrice 350 RTK comes furnished with an innovative TB65 dual-battery system. This system not only supports hot-swapping batteries but also enables multiple flights without requiring a power-off cycle. With the capability to endure up to 400 charging cycles, [3] it significantly diminishes the cost associated with each flight.<\/p>",
+            "page": ""
+          }
+        },
+        "row_8jpTTx": {
+          "type": "row",
+          "settings": {
+            "title": "Next-Gen Intelligent Battery Station",
+            "text": "<p>The new BS65 Intelligent Battery Station provides a one-stop solution for battery charging, storage, and transport.<\/p><ul><li><strong>Multiple Charging Modes<\/strong><br\/>In Storage Mode, charge the battery to 50%, which is good for long-term storage. In Ready-to-Fly Mode, quickly charge multiple battery sets to 90% to start operation at any time and extend the battery life.<\/li><li><strong>Intelligent Management<\/strong><br\/>When the battery station is connected to DJI RC Plus, the DJI Pilot 2 app will display the battery status and health information. In addition, you can set the number of self-discharge days, update the firmware, export logs, and access other quick operations with one tap.<\/li><li><strong>Effortless Transitions<\/strong><br\/>The battery station is designed with 360°-movement wheels for more convenient transportation and transitions.<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_7fpfqc",
+        "row_KcjPRD",
+        "row_iznxCN",
+        "row_ATRwcb",
+        "row_8UK34w",
+        "row_W6b3rp",
+        "row_8jpTTx"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "Meet the FlyingAg M350 RTK",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_jFkkQ9": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_GbiBrJ": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_1 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_JBnERn": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_hQyGVq": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_YRYFVC": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_4 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_GbiBrJ",
+        "row_JBnERn",
+        "row_hQyGVq",
+        "row_YRYFVC"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "Intelligent Operation",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_G6zx63": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_datVU9": {
+          "type": "heading",
+          "settings": {
+            "title": "Optional Powerful Payloads[8] ",
+            "size": "h2"
+          }
+        },
+        "text_qDdikL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Matrice 350 RTK supports a single downward gimbal, dual downward gimbals, [11] and a single upward gimbal, [11] and can carry three payloads simultaneously. The aircraft also has an E-Port open interface and a max payload capacity of 2.7 kg, meeting the needs of different operation scenarios like public safety, inspection, and mapping.<\/p><p>Zenmuse H20: The tripple-sensor system of zoom camera, wide camera, and laser rangefinder works together, supplemented by advanced intelligent algorithms, to deliver outstanding sensing and imaging performance. (20 MP Sensor w\/ 23x Optical Zoom Camera, 12 MP Wide Camera & 1200 meter LRF - laser range finder). <\/p><p>Zenmuse H20T ( Daylight Thermal): Capture everything. quad-sensor model with a wide-angle camera, a zoom camera, a laser rangefinder, and a radiometric thermal camera. An integrated laser rangefinder (LRF) measures the distance to an object at up to 1200 m away. (20 MP Sensor w\/ 23x Optical Zoom Camera, 12 MP Wide Camera, 1200 meter LRF - laser range finder, 640x512 px Radiometric Thermal Camera). <\/p><p>Zenmuse H20N (Night Thermal): Integrates starlight sensors into its 20x optical zoom and night vision wide-angle cameras. Pair this with dual zoom thermal cameras (2x & 8x) and a 1200 meter laser rangefinder, and you have a versatile hybrid payload that rises to the occasion during night operations.  <br\/><\/p><p>Zenmuse P1: Integrates a full-frame sensor with interchangeable fixed-focus lenses on a 3-axis stabilized gimbal. Designed for photogrammetry flight missions, it takes efficiency and accuracy to a whole new level.<\/p><p>Zenmuse L2: lntegrates a Livox Lidar module, a high-accuracy IMU, and a mapping camera. When used with the flight platform, it forms a complete solution that gives you real-time 3D data throughout the day, efficiently capturing the details of complex structures and delivering highly accurate reconstructed models.<\/p>",
+            "style": "large-body-text"
+          }
+        }
+      },
+      "block_order": [
+        "heading_datVU9",
+        "text_qDdikL"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_collage_peQxnD": {
+      "type": "media-collage",
+      "blocks": {
+        "video_frUGnU": {
+          "type": "video",
+          "settings": {
+            "video": "https:\/\/www.youtube.com\/watch?v=TssxCDf-e90",
+            "image": "shopify:\/\/shop_images\/Screenshot2023-10-21at8.14.36PM.png"
+          }
+        },
+        "image_6iNVcj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/M350_RTK.png",
+            "enable_parallax": false
+          }
+        }
+      },
+      "block_order": [
+        "video_frUGnU",
+        "image_6iNVcj"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "first_media_position_large": "left",
+        "content_position_large": "overlaid",
+        "content_position_mobile": "below",
+        "overlay": 20,
+        "blur": 40,
+        "inverse_colors": true,
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_text": false,
+        "title": "Media collage",
+        "text": "",
+        "text_size": "medium",
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_list_wDQMEY": {
+      "type": "video-list",
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "This web link below takes you to all the videos about using your new M350.  ",
+        "subheading": "",
+        "content": "",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_dULLfc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_azqACM": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Please check and strictly abide by local laws and regulations before flying.<\/li><li>All data was tested with a production model Matrice 350 RTK in a controlled environment. Actual experience may vary depending on the environment, usage, and firmware version.<\/li><li>All videos and images on this page were shot in strict compliance with relevant local laws and regulations.<\/li><li>Before use, Matrice 350 RTK must be activated via the DJI Pilot 2 app.<\/li><\/ul><p><\/p><p><\/p><ol><li>Measured with Matrice 350 RTK flying at approximately 8 m\/s without payloads in a windless environment until the battery level reached 0%. Data is for reference only. Please pay attention to reminders in the app for the actual usage time.<\/li><li>Measured in a controlled environment. The IP rating is not permanently effective and may decrease due to product wear and tear.<\/li><li>Up to 400 cycles if the accumulative duration of battery level ≥ 90% is less than 120 days within 12 months.<\/li><li>Measured with the 2112 High-Altitude Low-Noise Propellers and the takeoff weight ≤ 7.2 kg.<\/li><li>Dual Operator Mode required.<\/li><li>Measured with FCC compliance in an unobstructed environment with low interference at a flight altitude of approximately 120 m. Data is for reference only. During your flight, please pay attention to reminders in the app.<\/li><li>There are certain blind areas of visual sensing and infrared sensing. Positioning and obstacle-sensing performance may be affected by the flight environment and obstacle characteristics. Please fly with caution.<\/li><li>Sold separately.<\/li><li>Please enable the radar obstacle avoidance function in the DJI Pilot 2 app and set the aircraft safety distance (&gt; 2.5 m is recommended), and the flight speed should be &lt; 10 m\/s.<\/li><li>Measured when the radar reflection cross-sectional area of the detection target is ≥ 0.4 m². The effective detection range may vary with the size and material of the obstacle.<\/li><li>Gimbal connector is sold separately.<\/li><li>This function requires the remote controller to connect to the Internet and download DEM files.<\/li><li>This function requires Zenmuse P1.<\/li><li>DJI FlightHub 2 required.<\/li><li>This function requires the Zenmuse H20 Series payloads.<\/li><li>The accessories in this section can also be used with the Matrice 300 RTK.<\/li><li>Measured with CE compliance.<\/li><li>The aircraft comes with E-Port, while SkyPort and X-Port components are sold separately.<\/li><\/ol>",
+            "style": "large-body-text"
+          }
+        }
+      },
+      "block_order": [
+        "text_azqACM"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 0,
+        "padding_bottom": 0.5
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_columns_8EnXt9",
+    "video_CipVDM",
+    "collapsible_content_JAEhCr",
+    "collapsible_content_jFkkQ9",
+    "rich_text_G6zx63",
+    "media_collage_peQxnD",
+    "video_list_wDQMEY",
+    "rich_text_dULLfc",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

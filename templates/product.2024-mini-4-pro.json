@@ -1,0 +1,403 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "image_hotspots_Anck3M": {
+      "type": "image-hotspots",
+      "blocks": {
+        "image_em4FV9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2023-10-17at5.22.07PM.png",
+            "product_1": "copy-of-zenmuse-h20t-quad-sensor-camera-zoom-wide-rangefinder-thermal",
+            "product_1_horizontal": 38,
+            "product_1_vertical": 55,
+            "product_2": "",
+            "product_2_horizontal": 5,
+            "product_2_vertical": 5,
+            "product_3": "",
+            "product_3_horizontal": 10,
+            "product_3_vertical": 5
+          }
+        }
+      },
+      "block_order": [
+        "image_em4FV9"
+      ],
+      "settings": {
+        "layout": "fixed",
+        "columns_large": "1",
+        "columns_mobile": "1",
+        "image_ratio": "landscape",
+        "show_product_rating": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": false,
+        "title": "",
+        "heading_size": "h2",
+        "text": "<p><em><strong>UPDATE 12-11 drones are arriving weekly and shipping out in the order the order was received. GPC  cases are currently back ordered but we will ship ASAP after they arrive. Drones will ship out ASAP and will still arriver before Christmas if ordered by 12-20<\/strong><\/em><\/p>",
+        "text_style": "large-body-text",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_xUX83q": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Cx94eH": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.rich_text | metafield_tag }}<p><\/p>{{ product.metafields.custom.image_text_heading_1 | metafield_tag }}",
+            "style": "large-body-text"
+          }
+        }
+      },
+      "block_order": [
+        "text_Cx94eH"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_collage_mtJNk3": {
+      "type": "media-collage",
+      "blocks": {
+        "video_qEL9EB": {
+          "type": "video",
+          "settings": {
+            "video": "https:\/\/www.youtube.com\/watch?v=Ht8B-XEsTPY",
+            "image": "shopify:\/\/shop_images\/Screenshot2023-10-17at5.22.07PM.png"
+          }
+        },
+        "image_KqFJqN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Mini_4_Pro_63c11b75-1835-450b-9e60-67e37cac2b1b.png",
+            "enable_parallax": false
+          }
+        }
+      },
+      "block_order": [
+        "video_qEL9EB",
+        "image_KqFJqN"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "first_media_position_large": "left",
+        "content_position_large": "overlaid",
+        "content_position_mobile": "below",
+        "overlay": 20,
+        "blur": 40,
+        "inverse_colors": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_text": true,
+        "title": "",
+        "text": "",
+        "text_size": "medium",
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
+    "text_columns_tM6yh4": {
+      "type": "text-columns",
+      "blocks": {
+        "text_column_PwENN7": {
+          "type": "text-column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>DJI Mini 4 Pro Drone<\/li><li>GPC Custom Hard Case<\/li><li>DJI RC 2 Controller<\/li><li>DJI Mini 4 Pro Intelligent Flight Battery (3)<\/li><li>DJI Mini 4 Pro\/Mini 3 Pro Propellers (Pair) (Screws Included) \"3<\/li><li>Screwdriver (for Props)<\/li><li>DJI Mini 4 Pro Gimbal Protector <\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_gDhtjb": {
+          "type": "text-column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>DJI Mini 4 Pro Propeller Holder <\/li><li>Documents (Quick Start Guide and Safety Guidelines) <\/li><li>Type-C to Type-C PD Cable <\/li><li>USB-C Cable <\/li><li>DJI Mini 4 Pro\/Mini 3 Series Two-Way Charging Hub <\/li><li>DJI 30W USB Charger<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_column_PwENN7",
+        "text_column_gDhtjb"
+      ],
+      "settings": {
+        "layout": "fixed",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": true,
+        "title": "FlyingAg Mini 4 Pro Ag Kit Includes the following:",
+        "subheading": "",
+        "center_body_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
+    "13514640-6d86-43dd-9ed8-a5db1da5e154": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16628616200349__13514640-6d86-43dd-9ed8-a5db1da5e154-row-1": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_1 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16628616200349__13514640-6d86-43dd-9ed8-a5db1da5e154-row-1"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_list_tQwgmt": {
+      "type": "video-list",
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_heading_text": true,
+        "title": "",
+        "subheading": "",
+        "content": "",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 1,
+        "padding_bottom": 1
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_hotspots_Anck3M",
+    "rich_text_xUX83q",
+    "media_collage_mtJNk3",
+    "text_columns_tM6yh4",
+    "13514640-6d86-43dd-9ed8-a5db1da5e154",
+    "video_list_tQwgmt",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

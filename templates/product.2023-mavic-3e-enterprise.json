@@ -1,0 +1,582 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "text_columns_pGBFHX": {
+      "type": "text-columns",
+      "blocks": {
+        "text_column_x8bB9c": {
+          "type": "text-column",
+          "settings": {
+            "title": "",
+            "text": "<p>The DJI Mavic 3E drone integrates a 20 MP wide-angle camera with a 4\/3-inch CMOS sensor featuring large 3.3μm pixels that, together with Intelligent Low-Light Mode, offer significantly improved performance in dim conditions. You also get a 56x hybrid zoom camera that provides an equivalent focal length of 162mm for 12MP images.<\/p><p>We've tested your new ship before we shipped it to you but PLEASE review the FAA rules and regulations about safe use of your drone.  We also highly recommend reading the owners manual and viewing the website www.knowbeforeyoufly.org before your first flight.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_3ARpEY": {
+          "type": "text-column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>A 20 MP wide-angle camera<\/li><li>4\/3 CMOS sensor with large 3.3μm pixels<\/li><li>Rapid 0.7-second interval shooting<\/li><li>Intelligent Low-Light Mode<\/li><li>Up-to-56x hybrid zoom camera (with an equivalent focal length of 162mm for 12MP images).<\/li><li>Mechanical shutter (prevents motion blur and supports rapid 0.7-second interval shooting).<\/li><li>45-min flight durations let you cover more ground each mission.<\/li><li>Fast charge batteries with 100W charging hub, or directly charge the drone with 88W fast charging. Charging Hub: 100W, Aircraft 88W<\/li><li>RTK Capability<\/li><li><em><strong>DJI Care Enterprise Basic 1-Year Plan<\/strong><\/em><\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_column_x8bB9c",
+        "text_column_3ARpEY"
+      ],
+      "settings": {
+        "layout": "fixed",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": true,
+        "title": "Top Features Include (Mavic M3E):",
+        "subheading": "",
+        "rich_text": "",
+        "center_body_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_collage_xkJa9A": {
+      "type": "media-collage",
+      "blocks": {
+        "image_FKiUbb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DJI_Mavic_3_Enterprise_Series_Mavic_3E_Image_4_Vertigo_Drones.jpg",
+            "enable_parallax": false
+          }
+        },
+        "video_ieQcJ9": {
+          "type": "video",
+          "settings": {
+            "video": "https:\/\/www.youtube.com\/watch?v=pwpnWnC8f-E&t=34s"
+          }
+        }
+      },
+      "block_order": [
+        "image_FKiUbb",
+        "video_ieQcJ9"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "first_media_position_large": "left",
+        "content_position_large": "overlaid",
+        "content_position_mobile": "below",
+        "overlay": 20,
+        "blur": 40,
+        "inverse_colors": true,
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_text": true,
+        "title": "Media collage",
+        "text": "",
+        "text_size": "medium",
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_kHY7qb": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Qt96hD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Another major plus for this drone is a mechanical shutter that prevents motion blur and supports rapid 0.7-second interval shooting. Essentially, a mechanical shutter guarantees a higher-quality image when capturing photos of fast-moving objects. So, you can complete mapping missions with high efficiency without the need for Ground Control Points (GCPs).<\/p>",
+            "style": "text"
+          }
+        }
+      },
+      "block_order": [
+        "text_Qt96hD"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_with_text_7UQRU7": {
+      "type": "media-with-text",
+      "blocks": {
+        "block_MNimCx": {
+          "type": "block",
+          "settings": {
+            "large_layout": "image-first",
+            "mobile_layout": "text-first",
+            "image": "shopify:\/\/shop_images\/dji-mavic-3-enterprise-care-basic-djim3ebasic-dji-a3e.jpg",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "text": "{{ product.metafields.custom.right_content | metafield_tag }}{{ product.metafields.custom.right_content_2 | metafield_tag }}",
+            "text_extra": "",
+            "text_size": "medium",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "block_MNimCx"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "stack_blocks": true,
+        "center_tabs": true,
+        "title": "What's in the box??",
+        "subheading": "",
+        "rich_text": "",
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_yXkmd7": {
+      "type": "video",
+      "settings": {
+        "layout": "fixed",
+        "height_large": "16-9",
+        "height_mobile": "medium",
+        "text_position": "center center",
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "rich_text": "<h3><span style=\"text-decoration:underline\"><em><strong>What Else is NEW?<\/strong><\/em><\/span><\/h3><h3><\/h3><p><span style=\"text-decoration:underline\"><em><strong>This drone is DroneDeploy ready 👍 learn more watching this video below:<\/strong><\/em><\/span><\/p>",
+        "video": "https:\/\/www.youtube.com\/watch?v=uGUJyPbtWaA",
+        "image": "shopify:\/\/shop_images\/dji-mavic-3-enterprise-care-basic-djim3ebasic-dji-978.jpg",
+        "overlay": 30,
+        "color_foreground": "#ffffff",
+        "color_accent": "#ffffff",
+        "color_background": "#061c2f"
+      }
+    },
+    "0afc69cf-f096-45de-b4d7-72cd81dc806f": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16628616167581__0afc69cf-f096-45de-b4d7-72cd81dc806f-row-1": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_1 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_1.value }}"
+          }
+        },
+        "template--16628616167581__0afc69cf-f096-45de-b4d7-72cd81dc806f-row-2": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "template--16628616167581__0afc69cf-f096-45de-b4d7-72cd81dc806f-row-3": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "5e5344ef-d72c-4d8d-a6e0-3f7efb39a52c": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_4 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_4.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "template--16628616167581__0afc69cf-f096-45de-b4d7-72cd81dc806f-row-1",
+        "template--16628616167581__0afc69cf-f096-45de-b4d7-72cd81dc806f-row-2",
+        "template--16628616167581__0afc69cf-f096-45de-b4d7-72cd81dc806f-row-3",
+        "5e5344ef-d72c-4d8d-a6e0-3f7efb39a52c"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "body-text",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "5b71310a-d3dd-4c14-b2ed-93618e7c72be": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--16628616167581__5b71310a-d3dd-4c14-b2ed-93618e7c72be-block-1": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "shopify:\/\/shop_images\/ScreenShot2022-10-04at9.25.13PM.png",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "",
+            "title": "User Data Security",
+            "text": "<p>DJI is driven by the relentless pursuit of making complex technology accessible to all. Nowhere is this commitment more visible than in how they help commercial, civil, and government users around the world to find innovative ways to use their technology, bringing value throughout a wide range of industries. Given the unique role drones play as a data capture device, DJI understands how important data security is to commercial, civil and government customers. That’s why DJI gives users control over the data they generate. They buttress this commitment by providing in-depth information on how DJI drone platforms protect the data of customers, and outlining the strategies and processes they use to continually improve information security.<\/p>",
+            "text_extra": "",
+            "text_size": "medium",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16628616167581__5b71310a-d3dd-4c14-b2ed-93618e7c72be-block-1"
+      ],
+      "settings": {
+        "layout": "fixed-soft",
+        "height": "medium",
+        "stack_blocks": true,
+        "center_tabs": true,
+        "title": "",
+        "subheading": "",
+        "rich_text": "",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "ab7598a1-ad25-4508-9101-740478b2ea95": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16628616167581__ab7598a1-ad25-4508-9101-740478b2ea95-heading-1": {
+          "type": "heading",
+          "settings": {
+            "title": "You Control Your Data",
+            "size": "h1"
+          }
+        },
+        "template--16628616167581__ab7598a1-ad25-4508-9101-740478b2ea95-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>DJI will not access any user data unless the user grants DJI permission to do so. Users can choose to grant or revoke permissions anytime in the \"Network Security Mode\" settings. Such permissions include access to device information, flight records, device logs, approximate location information, user experience improvement program information, and whether DJI can share your device location with third-party map service providers in order to display your location on the map. You can enable \"Local Data Mode\" to use your device completely offline. In this case, you do not need to log in to your DJI account. Installer packages to upgrade your device can be downloaded directly from the DJI website. Soon, we will release features such as custom offline maps and offline import of certificates to unlock restricted zones.<strong>Data Encrypted for Enhanced Security<\/strong>Data transmitted between the drone and the controller on the ground is protected by the AES-256 encryption algorithm. The communication between the DJI Pilot app and the server is also protected by HTTPS or WebSockets over SSL\/TLS (WSS) protocol to prevent hijacking by third parties.<strong>Secure Device Media Storage<\/strong>DJI Mavic 3 Enterprise drones support a password protection mechanism for onboard data storage to guarantee the security of sensitive images and resources. When the password function is enabled, data stored in the SD card or onboard storage can be accessed only after the user-defined password is provided. The user-defined password is not shared with DJI, which means DJI cannot retrieve this password if you forget it.<\/p>",
+            "style": "large-body-text"
+          }
+        }
+      },
+      "block_order": [
+        "template--16628616167581__ab7598a1-ad25-4508-9101-740478b2ea95-heading-1",
+        "template--16628616167581__ab7598a1-ad25-4508-9101-740478b2ea95-text-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "b3f0b98b-7cba-4125-9128-35e3dc011bc6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16628616167581__b3f0b98b-7cba-4125-9128-35e3dc011bc6-row-1": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_1 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16628616167581__b3f0b98b-7cba-4125-9128-35e3dc011bc6-row-1"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_list_Umqznj": {
+      "type": "video-list",
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": true,
+        "title": "",
+        "subheading": "",
+        "content": "",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 1,
+        "padding_bottom": 1
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_columns_pGBFHX",
+    "media_collage_xkJa9A",
+    "rich_text_kHY7qb",
+    "media_with_text_7UQRU7",
+    "video_yXkmd7",
+    "0afc69cf-f096-45de-b4d7-72cd81dc806f",
+    "5b71310a-d3dd-4c14-b2ed-93618e7c72be",
+    "ab7598a1-ad25-4508-9101-740478b2ea95",
+    "b3f0b98b-7cba-4125-9128-35e3dc011bc6",
+    "video_list_Umqznj",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

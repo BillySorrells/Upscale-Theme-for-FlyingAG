@@ -1,0 +1,159 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 1,
+        "padding_bottom": 1
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "social": {
+          "type": "social",
+          "settings": {
+            "title": "Follow us",
+            "image_width": 120,
+            "width": 25
+          }
+        },
+        "menu": {
+          "type": "menu",
+          "settings": {
+            "title": "Quick links",
+            "menu": "footer",
+            "width": 25
+          }
+        },
+        "text-2": {
+          "type": "text",
+          "settings": {
+            "title": "FLYING AG",
+            "text": "<p>Flying AG was launched in 2015 by a group of successful farmers and growers from across the U.S. who work conscientiously to help other farmers decide what to use, who to trust and where to go in this huge space of unmanned aerial system (UAS) technology. <\/p>",
+            "width": 25,
+            "button_label": "",
+            "button_link": "",
+            "button_style": "arrow"
+          }
+        },
+        "b8c62003-bf60-4dc2-b58b-1ba6fbe6fa1a": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter",
+            "text": "<p>Promotions, new products, and sales. Directly to your inbox.<\/p>",
+            "width": 25
+          }
+        }
+      },
+      "block_order": [
+        "social",
+        "menu",
+        "text-2",
+        "b8c62003-bf60-4dc2-b58b-1ba6fbe6fa1a"
+      ],
+      "settings": {
+        "show_separator": true,
+        "show_payment_icons": true,
+        "show_copyright": true,
+        "enable_language_selector": true,
+        "enable_country_selector": true,
+        "copyright_text": "",
+        "enable_follow_on_shop": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "type": "custom.overlay",
+  "name": "Overlay group",
+  "sections": {
+    "popup": {
+      "type": "popup",
+      "blocks": {
+        "email-form": {
+          "type": "email-form",
+          "settings": {
+            "title": "Sign up and save!",
+            "heading_style": "h3",
+            "text": "<p>Promotions, new products, and sales. Directly to your inbox.<\/p>",
+            "text_style": "caption"
+          }
+        }
+      },
+      "block_order": [
+        "email-form"
+      ],
+      "settings": {
+        "enable": true,
+        "enable_header_icon": true,
+        "position": "center",
+        "delay": 5,
+        "frequency": 30,
+        "center_content": true,
+        "icon": "icon-megaphone",
+        "image": "shopify:\/\/shop_images\/6cebd8efcbc6c4e13bc21efb7e05be67_origin.jpg",
+        "image_height": "medium",
+        "image_position": "left",
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF"
+      }
+    },
+    "cookie-acceptance-banner": {
+      "type": "cookie-acceptance-banner",
+      "settings": {
+        "enable_bar": false,
+        "text": "<p>This website uses cookies to personalize and improve your experience.<\/p>",
+        "decline_button_label": "Decline",
+        "accept_button_label": "Accept",
+        "color_scheme": "inverse-with-accent-2",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    }
+  },
+  "order": [
+    "popup",
+    "cookie-acceptance-banner"
+  ]
+}

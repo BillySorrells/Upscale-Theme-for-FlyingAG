@@ -1,0 +1,547 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "short_description_b7j6Dq": {
+          "type": "short_description",
+          "settings": {
+            "text_short_desc": "{{ product.metafields.custom.short_description | metafield_tag }}"
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "short_description_b7j6Dq",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "media_with_text_nJC9ik": {
+      "type": "media-with-text",
+      "blocks": {
+        "block_UJ6gxM": {
+          "type": "block",
+          "settings": {
+            "large_layout": "image-first",
+            "mobile_layout": "text-first",
+            "image": "shopify:\/\/shop_images\/IMG_2013.webp",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "text": "{{ product.metafields.custom.right_content | metafield_tag }}{{ product.metafields.custom.right_content_2 | metafield_tag }}",
+            "text_extra": "",
+            "text_size": "medium",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "block_UJ6gxM"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "stack_blocks": true,
+        "center_tabs": true,
+        "title": "NEW FlyingAg Agras T20P Sprayer Drone Kit",
+        "subheading": "UP TO 25 ACRES PER HOUR*  |  CAPACITY: 5.28 GALLON (20L) |  SWATH: 30FT |  MAX FLOW: 3.16 GAL\/MIN (12 LPM ) |  DROPLET SIZE 50 - 300 MICRONS (ADJUSTABLE)",
+        "rich_text": "<p>We have sprayers in stock and are taking orders now <\/p><p>Contact Corey <a href=\"mailto:corey@flyingag.com\" title=\"mailto:corey@flyingag.com\"><strong>(corey@flyingag.com)<\/strong><\/a> for additional information!<\/p>",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#707070",
+        "color_accent": "#f5f5f5",
+        "color_background": "#f3f9ff",
+        "color_gradient": ""
+      }
+    },
+    "media_collage_J6AUrm": {
+      "type": "media-collage",
+      "blocks": {
+        "video_Yi38rT": {
+          "type": "video",
+          "settings": {
+            "video": "https:\/\/www.youtube.com\/watch?v=FSH1VShvhPE",
+            "image": "shopify:\/\/shop_images\/IMG_2018.webp"
+          }
+        },
+        "image_C8Hwam": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_2022.jpg",
+            "enable_parallax": false
+          }
+        }
+      },
+      "block_order": [
+        "video_Yi38rT",
+        "image_C8Hwam"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "first_media_position_large": "left",
+        "content_position_large": "overlaid",
+        "content_position_mobile": "below",
+        "overlay": 20,
+        "blur": 40,
+        "inverse_colors": true,
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_text": true,
+        "title": "Media collage",
+        "text": "",
+        "text_size": "medium",
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_mnTgze": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_J98Tay": {
+          "type": "row",
+          "settings": {
+            "title": "Meet the Agras T-40's Counterpart",
+            "text": "<p>Say hello to the Agras T20P, the smaller and lighter version of the T40. This drone inherits the same quality and efficiency from the T40, but in a more convenient size. Enjoy the easy compatibility, as you can swap T40 batteries, charger, and many components like propellers, engines, and pumps. Take advantage of the flexibility and simplicity of the Agras T20P for any aerial task.<\/p>",
+            "page": ""
+          }
+        },
+        "row_69DARD": {
+          "type": "row",
+          "settings": {
+            "title": "Spray System you can count on!",
+            "text": "<p>With the cutting-edge dual atomized spray disc and 5.28-gallon spray tank, you can apply your products accurately and uniformly. The smart design ensures equal coverage for the best results, while using the same nozzles and 30-foot spray width as a T40. No other drone in its class can match its speed, as it can empty the 5.28-gallon liquid tank in less than 2 minutes.<\/p>",
+            "page": "",
+            "image": "shopify:\/\/shop_images\/Heading_2_DJI_agras_t40_spraypattern_480x480_jpg.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "row_J98Tay",
+        "row_69DARD"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_heading_text": true,
+        "title": "UNMATCHED VALUE AND PERFORMANCE",
+        "heading_size": "h2",
+        "text": "<p>Introducing the Agras T20P drone – a remarkable combination of lightness and power. This nimble drone can carry a spraying payload of up to 5.28 gallons and a spreading payload of up to 55 pounds, with a longer flight time than the T40 (12 minutes hover time with full tank).<\/p><p>The T20P is equipped with a dual atomized spraying system, an active phased array radar, and a binocular vision, making it a formidable machine. Whether you need to survey, map, spray, or spread, this versatile drone can handle multiple tasks, delivering outstanding performance and value. Explore its capabilities and take your farming to the next level with the Agras T20P.<\/p><p>Ideal for:<\/p><ul><li>Experimental and research plots<\/li><li>Spot and variable-rate application<\/li><li>Specialized use cases<\/li><\/ul>",
+        "text_style": "large-body-text",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_QR7Dr8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_DrHz6J": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_1.value }}",
+            "text": "<ul><li>Liquid tank of<strong> 5.28 gallons<\/strong> that is designed to <strong>discharge in less than 2 minutes<\/strong><\/li><li><strong>Swath of 30 feet<\/strong> with uniform pattern throughout the width<\/li><li><strong>Two spinning nozzles<\/strong> that spray by spinning force instead of pressure, allowing easy control of droplet size with a button<\/li><li>Live level indicator, along with on-board scales, that show the leftover amount of liquid in tank and the time left in field<\/li><\/ul>",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_1.value }}"
+          }
+        },
+        "row_bX6LeU": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_2.value }}",
+            "text": "<ul><li>The spreader tank has a capacity of <strong>6.60 gallons<\/strong> and can hold approximately <strong>55 lbs. of granular material<\/strong>.<\/li><li>The spreader cover and frame have been redesigned to create <strong>minimal pattern disturbance<\/strong>.<\/li><li>The spreader is equipped with a <strong>dump valve<\/strong> and can be filled using a <strong>seed tender spout<\/strong><\/li><\/ul>",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_2.value }}"
+          }
+        },
+        "row_8LKQN3": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_3.value }}",
+            "text": "<ul><li>The drone can cover <strong>up to 25 acres per hour at 2 GPA<\/strong> and is capable of <strong>whole field coverage<\/strong>.<\/li><li>The drone combines <strong>mapping, spraying, and spreading functions <\/strong>using the remote controller and the D-RTK 2 mobile station.<\/li><li>The drone is equipped with a <strong>12 mega-pixel camera<\/strong> and an <strong>adjustable gimbal<\/strong> that enable easy capture of desired views.<\/li><li>The drone has a <strong>longer flight time <\/strong>than the T40, with <strong>12 minutes hover time with full tank<\/strong>.<\/li><li>The drone has <strong>swappable parts with T40<\/strong> for easy interchangeability.<\/li><li>The drone’s <strong>turbocharged remote controller<\/strong> has a <strong>7” display screen<\/strong>for smoother, faster mapping.<\/li><li>The drone has the <strong>ability to operate continuously with 2 batteries, 1 charger, and a generator on site<\/strong>.<\/li><li><strong>3-4 tank fills<\/strong> before swapping out the battery <\/li><\/ul>",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_3.value }}"
+          }
+        },
+        "row_JtwNWf": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_4.value }}",
+            "text": "<ul><li>The drone is capable of <strong>complete autonomous mission planning<\/strong> that is <strong>fast, easy, and customizable<\/strong>.<\/li><li>The drone is equipped with an <strong>active phased array radar<\/strong> and a <strong>binocular vision sensor system<\/strong> to provide <strong>360-degree horizontal omnidirectional obstacle sensing<\/strong>.<\/li><li>The drone’s <strong>foldable design<\/strong> reduces the aircraft size by <strong>77%<\/strong> for greater portability.<\/li><li>The drone is <strong>rated IPX6K throughout the entire aircraft<\/strong>, meaning it is <strong>water and dust proof<\/strong>.<\/li><\/ul>",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_4.value }}"
+          }
+        },
+        "row_aTG6KA": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_5.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_5 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_DrHz6J",
+        "row_bX6LeU",
+        "row_8LKQN3",
+        "row_JtwNWf",
+        "row_aTG6KA"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "KEY PRODUCT SPECIFICATIONS",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_3AzVPg": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_9Djahy": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_1 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_ExQT3f": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_UchNgh": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_WtNUgD": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_4 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_dAAtBQ": {
+          "type": "row",
+          "settings": {
+            "title": "T40 Intelligent Flight Battery",
+            "text": "<p>Capacity up to 30000 mAh | 11.5C while discharging, 6C while charging | Warranty coverage of 1,500 charging cycles<\/p>",
+            "page": ""
+          }
+        },
+        "row_jkXKGC": {
+          "type": "row",
+          "settings": {
+            "title": "DJI Agras Intelligent Cloud",
+            "text": "<p>By pairing AGRAS T40 with the <a href=\"https:\/\/flyingag.com\/collections\/drone-kit\/products\/2023-flyingag-mavic-3m-ag-kit\">Mavic 3 Multispectral<\/a>, the platform allows you to perform variable spraying\/spreading operations with precision based on the farmland’s prescription map. The feature is useful for the spraying of fertilizers on rice, fertilizers and defoliants on cotton crops, and nutrient solutions on soybeans and corn.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_9Djahy",
+        "row_ExQT3f",
+        "row_UchNgh",
+        "row_WtNUgD",
+        "row_dAAtBQ",
+        "row_jkXKGC"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "T20P Spreading System (Optional)",
+        "heading_size": "h2",
+        "text": "<h3><strong>Enhanced spreading efficiency for superior performance<\/strong><\/h3>",
+        "text_style": "body-text",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_U8kVTV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zT88HE": {
+          "type": "heading",
+          "settings": {
+            "title": "WHAT IS INCLUDED IN OUR SPRAY AND SPREAD FULL KIT:",
+            "size": "h2"
+          }
+        },
+        "text_wHnemz": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li><strong>Agras T20P Drone with Spray Tank and Remote Control<\/strong><\/li><li><strong>Intelligent Battery Charging Station<\/strong><\/li><li><strong>(2) Agras T40 Intelligent Flight Battery <\/strong><\/li><li><strong>Agras T20P Spreader System<\/strong><em>.<\/em> <\/li><li><strong>T20P Field Ops Kit <\/strong><br\/><em>Includes items such as props, (2) RC batteries, a headset,  fill-through tank cap, Generator power adapter and additional items we deem essential for operation.<\/em> <\/li><li><strong>Battery Cooling Station (Only At Flying Ag)<\/strong><br\/><\/li><li><strong>T20P Coverage Plan -1 Year <br\/><\/strong><em>Fills the gaps in DJI's warranty to cover replacing defective parts for the first 12 months and includes our Operator Error 50-50 parts cost share program. Ask for more details. Under this plan if you have any issues that prohibits you from flying for a long period of time, we will ship you a replacement to use while we repair your drone. <\/em><strong> <\/strong><\/li><li><strong>Flying Ag Knowledge and Support<br\/><\/strong><em>Features exclusive access to our knowledge hub filled with a wealth of valuable information and resources, our comprehensive 7-hour drone training course and tech support.(ASD)<\/em><\/li><li><strong>Referral to our Drone Lawyer to help walk you through step by step the FAA regulations <\/strong><\/li><\/ul>",
+            "style": "large-body-text"
+          }
+        },
+        "buttons_ppT6hB": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "Get more Info",
+            "first_button_link": "shopify:\/\/pages\/quote",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_zT88HE",
+        "text_wHnemz",
+        "buttons_ppT6hB"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_list_GERTQ8": {
+      "type": "video-list",
+      "settings": {
+        "layout": "fixed",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "center_heading_text": true,
+        "title": "Agras Sprayer Tips",
+        "subheading": "",
+        "content": "<p><em>The following videos are playlists be sure to watch them all!<\/em><\/p>",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 1,
+        "padding_bottom": 1
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "media_with_text_nJC9ik",
+    "media_collage_J6AUrm",
+    "collapsible_content_mnTgze",
+    "collapsible_content_QR7Dr8",
+    "collapsible_content_3AzVPg",
+    "rich_text_U8kVTV",
+    "video_list_GERTQ8",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

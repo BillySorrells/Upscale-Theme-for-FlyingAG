@@ -1,0 +1,417 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "text_columns_rYR3TN": {
+      "type": "text-columns",
+      "blocks": {
+        "text_column_JeUYrq": {
+          "type": "text-column",
+          "settings": {
+            "title": "TOP FEATURES INCLUDE:",
+            "text": "<ul><li>Wide: Equivalent Focal Length: 24mm, 48MP |<\/li><\/ul><p><\/p><ul><li>Zoom: Equivalent Focal Length: 162mm, 12MP<br\/><\/li><li>56× Hybrid Zoom<br\/><\/li><li>Thermal: DFOV: 61°<br\/><\/li><li>Equivalent Focal Length: 40mm<br\/><\/li><li>Thermal camera has 640 × 512 resolution and supports point and area temperature measurement, high temperature alerts, color palettes, and isotherms to help you find your targets and make quick decisions.<br\/><\/li><li>Mavic 3T's thermal and zoom cameras support 28× continuous side-by-side zoom for easy comparisons.<br\/><\/li><li>43-min flight time<br\/><\/li><li>Fast charge batteries with 100W charging hub, or directly charge the drone with 88W fast charging. Charging Hub: 100W, Aircraft 88W<br\/><\/li><li>DJI Care Enterprise Basic 1-Year Plan<\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_VTtt6i": {
+          "type": "text-column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot2022-12-12at4.53.36PM.png",
+            "title": "",
+            "text": "<p>We've test flown your new ship before we shipped it to you but PLEASE review the FAA rules and regulations about safe use of your drone.  We also highly recommend reading the owners manual and viewing the website <a href=\"https:\/\/www.knowbeforeyoufly.org \" target=\"_blank\" title=\"https:\/\/www.knowbeforeyoufly.org \"><strong>www.knowbeforeyoufly.org<\/strong> <\/a>before your first flight.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_column_JeUYrq",
+        "text_column_VTtt6i"
+      ],
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "",
+        "subheading": "",
+        "rich_text": "<p>The Mavic 3T redefines industry standards for small commercial drones. With a mechanical shutter, a 56× zoom camera, and  thermal version is available for firefighting, search and rescue, crop & livestock inspection, and night operations.<\/p><p>Over the years we continue working with farmers and other industry professionals to provide the best \"ready to fly\" kits.  This new system is without a doubt the latest and greatest if you need a thermal solution!!!<\/p>",
+        "center_body_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_8gBqN6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_BQGKNy": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_1 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_1.value }}"
+          }
+        },
+        "row_y7i63d": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_2 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_2.value }}"
+          }
+        },
+        "row_nMNxgP": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "row_n6d8p8": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_4 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_4.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "row_BQGKNy",
+        "row_y7i63d",
+        "row_nMNxgP",
+        "row_n6d8p8"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "2023 FlyingAg Mavic 3T Thermal Ag Kit",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "text_columns_jUq44k": {
+      "type": "text-columns",
+      "blocks": {
+        "text_column_Pncidb": {
+          "type": "text-column",
+          "settings": {
+            "title": "What's in the box??",
+            "text": "<ul><li>1x Mavic 3T Aircraft<\/li><li>3x Mavic 3 Intelligent Flight Battery<\/li><li>1x 100W Charging Hub<\/li><li>1x microSD Card<\/li><li>1x Gimbal Protector<\/li><li>3x Mavic 3 Enterprise Series Propellers (Pair)<\/li><li>1x RC Pro Enterprise<\/li><li>1x Screwdriver<\/li><li>1x USB-C Power Adapter (100W)<\/li><li>1x 100W Power Adaptor AC Cable<\/li><li>1x USB-C Cable<\/li><li>1x USB-C to USB-C Cable<\/li><li>1x Protector Case<\/li><li>Every unit is tested and verified to power up prior to shipping <\/li><\/ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "text_column_RrhVfQ": {
+          "type": "text-column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ScreenShot2022-10-04at9.25.13PM.png",
+            "title": "",
+            "text": "<p>DJI is driven by the relentless pursuit of making complex technology accessible to all. Nowhere is this commitment more visible than in how they help commercial, civil, and government users around the world to find innovative ways to use their technology, bringing value throughout a wide range of industries. Given the unique role drones play as a data capture device, DJI understands how important data security is to commercial, civil and government customers. That’s why DJI gives users control over the data they generate. They buttress this commitment by providing in-depth information on how DJI drone platforms protect the data of customers, and outlining the strategies and processes they use to continually improve information security.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_column_Pncidb",
+        "text_column_RrhVfQ"
+      ],
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "",
+        "subheading": "",
+        "rich_text": "",
+        "center_body_text": false,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "collapsible_content_6WhDFB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "row_zC6ibn": {
+          "type": "row",
+          "settings": {
+            "title": "You Control Your Data",
+            "text": "<p>DJI will not access any user data unless the user grants DJI permission to do so. Users can choose to grant or revoke permissions anytime in the \"Network Security Mode\" settings. Such permissions include access to device information, flight records, device logs, approximate location information, user experience improvement program information, and whether DJI can share your device location with third-party map service providers in order to display your location on the map. You can enable \"Local Data Mode\" to use your device completely offline. In this case, you do not need to log in to your DJI account. Installer packages to upgrade your device can be downloaded directly from the DJI website. Soon, we will release features such as custom offline maps and offline import of certificates to unlock restricted zones.<\/p>",
+            "page": ""
+          }
+        },
+        "row_hpTdAQ": {
+          "type": "row",
+          "settings": {
+            "title": "Data Encrypted for Enhanced Security",
+            "text": "<p>Data transmitted between the drone and the controller on the ground is protected by the AES-256 encryption algorithm. The communication between the DJI Pilot app and the server is also protected by HTTPS or WebSockets over SSL\/TLS (WSS) protocol to prevent hijacking by third parties.<\/p>",
+            "page": ""
+          }
+        },
+        "row_YrBdrn": {
+          "type": "row",
+          "settings": {
+            "title": "Secure Device Media Storage",
+            "text": "<p>DJI Mavic 3 Enterprise drones support a password protection mechanism for onboard data storage to guarantee the security of sensitive images and resources. When the password function is enabled, data stored in the SD card or onboard storage can be accessed only after the user-defined password is provided. The user-defined password is not shared with DJI, which means DJI cannot retrieve this password if you forget it.<\/p><h3><\/h3><h3><\/h3>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_zC6ibn",
+        "row_hpTdAQ",
+        "row_YrBdrn"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": true,
+        "title": "User Data Security",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "large-subtext",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "video_list_tcaa9J": {
+      "type": "video-list",
+      "settings": {
+        "layout": "full",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "3",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": true,
+        "title": "Check out more videos about the Mavic 3 Thermal",
+        "subheading": "",
+        "content": "",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 1,
+        "padding_bottom": 1
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "text_columns_rYR3TN",
+    "collapsible_content_8gBqN6",
+    "text_columns_jUq44k",
+    "collapsible_content_6WhDFB",
+    "video_list_tcaa9J",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}

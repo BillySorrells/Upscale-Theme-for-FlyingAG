@@ -1,0 +1,524 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "small-subtext",
+            "uppercase": true
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {}
+        },
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "de4f0760-0cf1-432b-8f91-b87e17ee90bd": {
+          "type": "short_description",
+          "settings": {
+            "text_short_desc": "{{ product.metafields.custom.short_description | metafield_tag }}"
+          }
+        },
+        "variant-picker": {
+          "type": "variant-picker",
+          "settings": {
+            "show_unavailable_variants_indicator": true,
+            "option_type": "button",
+            "color_option_type": "button"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity-selector",
+          "settings": {}
+        },
+        "stock-availability": {
+          "type": "stock-availability",
+          "settings": {
+            "hide_in_stock_label": true,
+            "icon_style": "default",
+            "low_inventory_threshold": 3,
+            "enable_label_colors": false,
+            "color_in_stock": "#428445",
+            "color_low_stock": "#ffb800",
+            "color_no_stock": "#ff0000"
+          }
+        },
+        "buy-buttons": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_dynamic_checkout_buttons": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "style": "button-and-icons",
+            "text": "Share",
+            "button_style": "subdued"
+          }
+        },
+        "e354881e-492a-465e-941c-27b35a57980c": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/verified_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "text",
+        "title",
+        "79f8f48c-44d9-4826-8db4-8c9374ab12d5",
+        "price",
+        "de4f0760-0cf1-432b-8f91-b87e17ee90bd",
+        "variant-picker",
+        "quantity-selector",
+        "stock-availability",
+        "buy-buttons",
+        "share",
+        "e354881e-492a-465e-941c-27b35a57980c"
+      ],
+      "settings": {
+        "layout": "full",
+        "enable_sticky_media_large": true,
+        "media_thumbnails_position_large": "left",
+        "enable_thumbnails_mobile": true,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "animation": "fade",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "956f25f7-a3c6-4802-9695-b1cdeb3fcc14": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--16560294822045__956f25f7-a3c6-4802-9695-b1cdeb3fcc14-block-1": {
+          "type": "block",
+          "settings": {
+            "large_layout": "image-first",
+            "mobile_layout": "text-first",
+            "image": "{{ product.metafields.custom.left_image.value }}",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "text": "{{ product.metafields.custom.right_content | metafield_tag }}{{ product.metafields.custom.right_content_2 | metafield_tag }}",
+            "text_extra": "",
+            "text_size": "medium",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16560294822045__956f25f7-a3c6-4802-9695-b1cdeb3fcc14-block-1"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "medium",
+        "stack_blocks": false,
+        "center_tabs": false,
+        "title": "NEW FlyingAg Agras T40 Sprayer Drone Kit",
+        "subheading": "52.6 ACRES PER HOUR*  |  CAPACITY: 10.6 GAL (40L) |  SWATH: 36FT |  MAX FLOW: 3.16 GAL\/MIN (12 LPM ) |  DROPLET SIZE 50 - 300 MICRONS (ADJUSTABLE)",
+        "rich_text": "<p>We have sprayers in stock and are taking orders now <\/p><p>Contact Corey <a href=\"mailto:corey@flyingag.com\" title=\"mailto:corey@flyingag.com\"><strong>(corey@flyingag.com)<\/strong><\/a> for additional information!<\/p>",
+        "padding_top": 0.5,
+        "padding_bottom": 0,
+        "color_scheme": "default",
+        "custom_colors": true,
+        "color_foreground": "#707070",
+        "color_accent": "#f5f5f5",
+        "color_background": "#f3f9ff",
+        "color_gradient": ""
+      }
+    },
+    "video_list_LQacwC": {
+      "type": "video-list",
+      "settings": {
+        "layout": "fixed",
+        "slider_large": false,
+        "slider_mobile": true,
+        "columns_large": "2",
+        "image_ratio": "landscape",
+        "image_width": "1",
+        "image_padding": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "center_heading_text": false,
+        "title": "",
+        "subheading": "",
+        "content": "{{ product.metafields.custom.rich_text | metafield_tag }}",
+        "center_body_text": true,
+        "button_label": "",
+        "button_link": "",
+        "button_style": false,
+        "soft_background": "column",
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "f300c325-3bc9-478e-8b04-f6e944de8612": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16560294822045__f300c325-3bc9-478e-8b04-f6e944de8612-row-1": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_1 | metafield_tag }}",
+            "page": "",
+            "image": "{{ product.metafields.custom.collapse_image_1.value }}"
+          }
+        },
+        "template--16560294822045__f300c325-3bc9-478e-8b04-f6e944de8612-row-2": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_2 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "template--16560294822045__f300c325-3bc9-478e-8b04-f6e944de8612-row-3": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "d03b2aa0-ab87-463e-a0e2-9d1ce33efe5d": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_content_4 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560294822045__f300c325-3bc9-478e-8b04-f6e944de8612-row-1",
+        "template--16560294822045__f300c325-3bc9-478e-8b04-f6e944de8612-row-2",
+        "template--16560294822045__f300c325-3bc9-478e-8b04-f6e944de8612-row-3",
+        "d03b2aa0-ab87-463e-a0e2-9d1ce33efe5d"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_heading_text": true,
+        "title": "",
+        "heading_size": "h2",
+        "text": "{{ product.metafields.custom.collapse_heading | metafield_tag }}",
+        "text_style": "body-text",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "ebcf7ab6-2085-48c1-b80a-7f660b354716": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--16560294822045__ebcf7ab6-2085-48c1-b80a-7f660b354716-block-2": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "{{ product.metafields.custom.active_phase_image.value }}",
+            "image_padding": true,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "",
+            "title": "{{ product.metafields.custom.active_phase_heading.value }}",
+            "text": "{{ product.metafields.custom.active_phase_content_1 | metafield_tag }}",
+            "text_extra": "{{ product.metafields.custom.active_phase_content_2 | metafield_tag }}",
+            "text_size": "medium",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16560294822045__ebcf7ab6-2085-48c1-b80a-7f660b354716-block-2"
+      ],
+      "settings": {
+        "layout": "narrow-width",
+        "height": "auto",
+        "stack_blocks": false,
+        "center_tabs": false,
+        "title": "",
+        "subheading": "",
+        "rich_text": "",
+        "padding_top": 1,
+        "padding_bottom": 0,
+        "color_scheme": "accent-1",
+        "custom_colors": true,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#f3f9ff",
+        "color_gradient": ""
+      }
+    },
+    "d9db8849-7229-4fa3-b2f1-0f206c28f788": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16560294822045__d9db8849-7229-4fa3-b2f1-0f206c28f788-row-1": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_1.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_1 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "template--16560294822045__d9db8849-7229-4fa3-b2f1-0f206c28f788-row-2": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_2.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "template--16560294822045__d9db8849-7229-4fa3-b2f1-0f206c28f788-row-3": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_3.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_3 | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "3d9a8407-59b5-49be-89da-18b265e18f0b": {
+          "type": "row",
+          "settings": {
+            "title": "{{ product.metafields.custom.collapse_spread_list_4.value }}",
+            "text": "{{ product.metafields.custom.collapse_spread_content_4 | metafield_tag }}",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16560294822045__d9db8849-7229-4fa3-b2f1-0f206c28f788-row-1",
+        "template--16560294822045__d9db8849-7229-4fa3-b2f1-0f206c28f788-row-2",
+        "template--16560294822045__d9db8849-7229-4fa3-b2f1-0f206c28f788-row-3",
+        "3d9a8407-59b5-49be-89da-18b265e18f0b"
+      ],
+      "settings": {
+        "layout": "full",
+        "row_style": "1st-open",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "center_heading_text": true,
+        "title": "{{ product.metafields.custom.spreading_collapse_heading.value }}",
+        "heading_size": "h2",
+        "text": "",
+        "text_style": "body-text",
+        "center_body_text": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "b11e9b88-4acf-4789-9d6c-d0b0e4c9d19f": {
+      "type": "media-with-text",
+      "blocks": {
+        "template--16560294822045__b11e9b88-4acf-4789-9d6c-d0b0e4c9d19f-block-1": {
+          "type": "block",
+          "settings": {
+            "large_layout": "text-first",
+            "mobile_layout": "text-first",
+            "image": "{{ product.metafields.custom.right_image.value }}",
+            "image_padding": false,
+            "video": "",
+            "video_style": "image-play",
+            "enable_parallax": false,
+            "tab_label": "",
+            "subheading": "",
+            "title": "",
+            "text": "{{ product.metafields.custom.left_content | metafield_tag }}",
+            "text_extra": "",
+            "text_size": "medium",
+            "first_button_label": "",
+            "first_button_link": "",
+            "first_button_outline_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_outline_style": true
+          }
+        }
+      },
+      "block_order": [
+        "template--16560294822045__b11e9b88-4acf-4789-9d6c-d0b0e4c9d19f-block-1"
+      ],
+      "settings": {
+        "layout": "full",
+        "height": "auto",
+        "stack_blocks": false,
+        "center_tabs": false,
+        "title": "",
+        "subheading": "",
+        "rich_text": "",
+        "padding_top": 0.5,
+        "padding_bottom": 0.5,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": true,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#ffffff",
+        "color_gradient": ""
+      }
+    },
+    "rich_text_CbdyFY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JGDgrF": {
+          "type": "heading",
+          "settings": {
+            "title": "What is included in our Spray and Spread Full Kit :",
+            "size": "h2"
+          }
+        },
+        "text_BQJ9Pw": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Agras T40 Drone with Spray Tank and Remote Control<\/li><li>Intelligent Battery Charging Station<\/li><li>(3) Agras T40(DB1560) Intelligent Flight Battery<\/li><li>Agras T40 Spreader System<\/li><li>Agras T40 Generator Charger Cables<\/li><li>Agras T40 Battery Cooling Kit<\/li><li>T40 Field Ready Kit<\/li><\/ul><p>Includes items such as props, (2) RC batteries, a headset,  fill-through tank cap, and additional items we deem essential for operation. <\/p><ul><li>T40 Coverage Plan-1 Year <\/li><\/ul><p>Fills the gaps in DJI's warranty to cover replacing defective parts for the first 12 months and includes our Operator Error 50-50 parts cost share program. Ask for more details. Under this plan if you have any issues that prohibits you from flying for a long period of time, we will ship you a replacement to use while we repair your drone.  <\/p><ul><li>Flying Ag Knowledge and Support<\/li><\/ul><p>Features exclusive access to our knowledge hub filled with a wealth of valuable information and resources, our comprehensive 7-hour drone training course and tech support.(ASD)<\/p><ul><li>Referral to our Drone Lawyer to help walk you through step by step the FAA regulations <\/li><\/ul>",
+            "style": "large-body-text"
+          }
+        },
+        "buttons_Hcznpd": {
+          "type": "buttons",
+          "settings": {
+            "first_button_label": "Get more Info",
+            "first_button_link": "shopify:\/\/pages\/quote",
+            "first_button_style": false,
+            "second_button_label": "",
+            "second_button_link": "",
+            "second_button_style": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_JGDgrF",
+        "text_BQJ9Pw",
+        "buttons_Hcznpd"
+      ],
+      "settings": {
+        "full_width": true,
+        "text_position": "center center",
+        "overlay": 30,
+        "image_height_large": "medium",
+        "image_height_mobile": "medium",
+        "enable_parallax": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "soft_background": false,
+        "color_scheme": "default-with-accent-1",
+        "custom_colors": false,
+        "color_foreground": "#061C2F",
+        "color_accent": "#0D91BD",
+        "color_background": "#FFFFFF",
+        "color_gradient": ""
+      }
+    },
+    "1703192485380358f3": {
+      "type": "apps",
+      "blocks": {
+        "348c0314-67c8-49b5-b638-719169da6867": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "348c0314-67c8-49b5-b638-719169da6867"
+      ],
+      "settings": {
+        "layout": "full",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "layout": "full",
+        "limit": 4,
+        "slider_large": true,
+        "slider_mobile": true,
+        "padding_top": 1,
+        "padding_bottom": 1,
+        "center_text": false,
+        "title": "You may also like",
+        "image_container_ratio": "square",
+        "fit_image_to_container": false,
+        "image_padding": 5,
+        "enable_second_image_on_hover": true,
+        "color_scheme": "inverse",
+        "custom_colors": true,
+        "color_foreground": "#061c2f",
+        "color_accent": "#0d91bd",
+        "color_background": "#f5f5f5",
+        "color_gradient": ""
+      }
+    },
+    "recently-viewed-products": {
+      "type": "recently-viewed-products",
+      "settings": {
+        "style": "non-collapsible",
+        "enable_quick_view": true,
+        "enable_clear_history": true,
+        "color_scheme": "default",
+        "custom_colors": false,
+        "color_foreground": "#061c2f",
+        "color_background": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "956f25f7-a3c6-4802-9695-b1cdeb3fcc14",
+    "video_list_LQacwC",
+    "f300c325-3bc9-478e-8b04-f6e944de8612",
+    "ebcf7ab6-2085-48c1-b80a-7f660b354716",
+    "d9db8849-7229-4fa3-b2f1-0f206c28f788",
+    "b11e9b88-4acf-4789-9d6c-d0b0e4c9d19f",
+    "rich_text_CbdyFY",
+    "1703192485380358f3",
+    "product-recommendations",
+    "recently-viewed-products"
+  ]
+}
